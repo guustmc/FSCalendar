@@ -137,7 +137,7 @@
             }
             height;
         });
-        CGSize size = CGSizeMake(48, 48);
+        CGSize size = CGSizeMake(width, height);
         size;
     });
     
